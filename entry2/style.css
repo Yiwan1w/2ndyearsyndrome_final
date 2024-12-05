@@ -53,6 +53,17 @@
     font-style: normal;
     text-decoration: none;
 }
+.minicart-link{
+    right: 0%;
+    margin-right: 2%;
+    position: absolute;
+    padding-right: 1%;
+    color: #000;
+    font-family: "Repro";
+    font-size: 1vw;
+    font-style: normal;
+    text-decoration: none;
+}
 .Books{
     padding-top: 60px;
 }
